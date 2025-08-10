@@ -1,4 +1,4 @@
-# Hi, I'm Tanvir Hasan 👋
+# Hi, I'm Md Tanvir Hasan 👋
 MS in Data Science • Machine Learning • MLOps • Analytics
 
 I turn data into decisions with statistical modeling, machine learning, and production-grade data systems. I enjoy building end-to-end solutions—from data pipelines and feature engineering to model deployment and monitoring.
