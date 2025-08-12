@@ -15,7 +15,7 @@ I turn data into decisions with statistical modeling, machine learning, and prod
   <a href="RESUME_OR_CV_URL_HERE">Resume</a> •
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG/">LinkedIn</a> •
   <a href="mailto:YOUR_EMAIL@example.com">Email</a> •
-  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">Kaggle</a> •
+  <a href="https://www.kaggle.com/mdtanvirhasan">Kaggle</a> •
   <a href="https://huggingface.co/YOUR_HF_USERNAME">Hugging Face</a>
 </p>
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=mdtanvir-hasan&style=flat&color=0e75b6" />
